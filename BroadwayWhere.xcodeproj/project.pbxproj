@@ -1,0 +1,587 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 56;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		0427690D2BA09F5400CEAD74 /* BroadwayWhereApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0427690C2BA09F5400CEAD74 /* BroadwayWhereApp.swift */; };
+		0427690F2BA09F5400CEAD74 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0427690E2BA09F5400CEAD74 /* ContentView.swift */; };
+		042769112BA09F5900CEAD74 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 042769102BA09F5900CEAD74 /* Assets.xcassets */; };
+		042769142BA09F5900CEAD74 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 042769132BA09F5900CEAD74 /* Preview Assets.xcassets */; };
+		0427691E2BA09F5900CEAD74 /* BroadwayWhereTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0427691D2BA09F5900CEAD74 /* BroadwayWhereTests.swift */; };
+		042769282BA09F5900CEAD74 /* BroadwayWhereUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 042769272BA09F5900CEAD74 /* BroadwayWhereUITests.swift */; };
+		0427692A2BA09F5900CEAD74 /* BroadwayWhereUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 042769292BA09F5900CEAD74 /* BroadwayWhereUITestsLaunchTests.swift */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		0427691A2BA09F5900CEAD74 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 042769012BA09F5400CEAD74 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 042769082BA09F5400CEAD74;
+			remoteInfo = BroadwayWhere;
+		};
+		042769242BA09F5900CEAD74 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 042769012BA09F5400CEAD74 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 042769082BA09F5400CEAD74;
+			remoteInfo = BroadwayWhere;
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		042769092BA09F5400CEAD74 /* BroadwayWhere.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = BroadwayWhere.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		0427690C2BA09F5400CEAD74 /* BroadwayWhereApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BroadwayWhereApp.swift; sourceTree = "<group>"; };
+		0427690E2BA09F5400CEAD74 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
+		042769102BA09F5900CEAD74 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		042769132BA09F5900CEAD74 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		042769192BA09F5900CEAD74 /* BroadwayWhereTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = BroadwayWhereTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		0427691D2BA09F5900CEAD74 /* BroadwayWhereTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BroadwayWhereTests.swift; sourceTree = "<group>"; };
+		042769232BA09F5900CEAD74 /* BroadwayWhereUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = BroadwayWhereUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		042769272BA09F5900CEAD74 /* BroadwayWhereUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BroadwayWhereUITests.swift; sourceTree = "<group>"; };
+		042769292BA09F5900CEAD74 /* BroadwayWhereUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BroadwayWhereUITestsLaunchTests.swift; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		042769062BA09F5400CEAD74 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		042769162BA09F5900CEAD74 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		042769202BA09F5900CEAD74 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		042769002BA09F5400CEAD74 = {
+			isa = PBXGroup;
+			children = (
+				0427690B2BA09F5400CEAD74 /* BroadwayWhere */,
+				0427691C2BA09F5900CEAD74 /* BroadwayWhereTests */,
+				042769262BA09F5900CEAD74 /* BroadwayWhereUITests */,
+				0427690A2BA09F5400CEAD74 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		0427690A2BA09F5400CEAD74 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				042769092BA09F5400CEAD74 /* BroadwayWhere.app */,
+				042769192BA09F5900CEAD74 /* BroadwayWhereTests.xctest */,
+				042769232BA09F5900CEAD74 /* BroadwayWhereUITests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		0427690B2BA09F5400CEAD74 /* BroadwayWhere */ = {
+			isa = PBXGroup;
+			children = (
+				0427690C2BA09F5400CEAD74 /* BroadwayWhereApp.swift */,
+				0427690E2BA09F5400CEAD74 /* ContentView.swift */,
+				042769102BA09F5900CEAD74 /* Assets.xcassets */,
+				042769122BA09F5900CEAD74 /* Preview Content */,
+			);
+			path = BroadwayWhere;
+			sourceTree = "<group>";
+		};
+		042769122BA09F5900CEAD74 /* Preview Content */ = {
+			isa = PBXGroup;
+			children = (
+				042769132BA09F5900CEAD74 /* Preview Assets.xcassets */,
+			);
+			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		0427691C2BA09F5900CEAD74 /* BroadwayWhereTests */ = {
+			isa = PBXGroup;
+			children = (
+				0427691D2BA09F5900CEAD74 /* BroadwayWhereTests.swift */,
+			);
+			path = BroadwayWhereTests;
+			sourceTree = "<group>";
+		};
+		042769262BA09F5900CEAD74 /* BroadwayWhereUITests */ = {
+			isa = PBXGroup;
+			children = (
+				042769272BA09F5900CEAD74 /* BroadwayWhereUITests.swift */,
+				042769292BA09F5900CEAD74 /* BroadwayWhereUITestsLaunchTests.swift */,
+			);
+			path = BroadwayWhereUITests;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		042769082BA09F5400CEAD74 /* BroadwayWhere */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 0427692D2BA09F5900CEAD74 /* Build configuration list for PBXNativeTarget "BroadwayWhere" */;
+			buildPhases = (
+				042769052BA09F5400CEAD74 /* Sources */,
+				042769062BA09F5400CEAD74 /* Frameworks */,
+				042769072BA09F5400CEAD74 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = BroadwayWhere;
+			productName = BroadwayWhere;
+			productReference = 042769092BA09F5400CEAD74 /* BroadwayWhere.app */;
+			productType = "com.apple.product-type.application";
+		};
+		042769182BA09F5900CEAD74 /* BroadwayWhereTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 042769302BA09F5900CEAD74 /* Build configuration list for PBXNativeTarget "BroadwayWhereTests" */;
+			buildPhases = (
+				042769152BA09F5900CEAD74 /* Sources */,
+				042769162BA09F5900CEAD74 /* Frameworks */,
+				042769172BA09F5900CEAD74 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				0427691B2BA09F5900CEAD74 /* PBXTargetDependency */,
+			);
+			name = BroadwayWhereTests;
+			productName = BroadwayWhereTests;
+			productReference = 042769192BA09F5900CEAD74 /* BroadwayWhereTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+		042769222BA09F5900CEAD74 /* BroadwayWhereUITests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 042769332BA09F5900CEAD74 /* Build configuration list for PBXNativeTarget "BroadwayWhereUITests" */;
+			buildPhases = (
+				0427691F2BA09F5900CEAD74 /* Sources */,
+				042769202BA09F5900CEAD74 /* Frameworks */,
+				042769212BA09F5900CEAD74 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				042769252BA09F5900CEAD74 /* PBXTargetDependency */,
+			);
+			name = BroadwayWhereUITests;
+			productName = BroadwayWhereUITests;
+			productReference = 042769232BA09F5900CEAD74 /* BroadwayWhereUITests.xctest */;
+			productType = "com.apple.product-type.bundle.ui-testing";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		042769012BA09F5400CEAD74 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				LastSwiftUpdateCheck = 1520;
+				LastUpgradeCheck = 1520;
+				TargetAttributes = {
+					042769082BA09F5400CEAD74 = {
+						CreatedOnToolsVersion = 15.2;
+					};
+					042769182BA09F5900CEAD74 = {
+						CreatedOnToolsVersion = 15.2;
+						TestTargetID = 042769082BA09F5400CEAD74;
+					};
+					042769222BA09F5900CEAD74 = {
+						CreatedOnToolsVersion = 15.2;
+						TestTargetID = 042769082BA09F5400CEAD74;
+					};
+				};
+			};
+			buildConfigurationList = 042769042BA09F5400CEAD74 /* Build configuration list for PBXProject "BroadwayWhere" */;
+			compatibilityVersion = "Xcode 14.0";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 042769002BA09F5400CEAD74;
+			productRefGroup = 0427690A2BA09F5400CEAD74 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				042769082BA09F5400CEAD74 /* BroadwayWhere */,
+				042769182BA09F5900CEAD74 /* BroadwayWhereTests */,
+				042769222BA09F5900CEAD74 /* BroadwayWhereUITests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		042769072BA09F5400CEAD74 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				042769142BA09F5900CEAD74 /* Preview Assets.xcassets in Resources */,
+				042769112BA09F5900CEAD74 /* Assets.xcassets in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		042769172BA09F5900CEAD74 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		042769212BA09F5900CEAD74 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		042769052BA09F5400CEAD74 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				0427690F2BA09F5400CEAD74 /* ContentView.swift in Sources */,
+				0427690D2BA09F5400CEAD74 /* BroadwayWhereApp.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		042769152BA09F5900CEAD74 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				0427691E2BA09F5900CEAD74 /* BroadwayWhereTests.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		0427691F2BA09F5900CEAD74 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				042769282BA09F5900CEAD74 /* BroadwayWhereUITests.swift in Sources */,
+				0427692A2BA09F5900CEAD74 /* BroadwayWhereUITestsLaunchTests.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		0427691B2BA09F5900CEAD74 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 042769082BA09F5400CEAD74 /* BroadwayWhere */;
+			targetProxy = 0427691A2BA09F5900CEAD74 /* PBXContainerItemProxy */;
+		};
+		042769252BA09F5900CEAD74 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 042769082BA09F5400CEAD74 /* BroadwayWhere */;
+			targetProxy = 042769242BA09F5900CEAD74 /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin XCBuildConfiguration section */
+		0427692B2BA09F5900CEAD74 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 17.2;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "DEBUG $(inherited)";
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		0427692C2BA09F5900CEAD74 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 17.2;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		0427692E2BA09F5900CEAD74 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_ASSET_PATHS = "\"BroadwayWhere/Preview Content\"";
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = co.israelmaslow.BroadwayWhere;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		0427692F2BA09F5900CEAD74 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_ASSET_PATHS = "\"BroadwayWhere/Preview Content\"";
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = co.israelmaslow.BroadwayWhere;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
+		042769312BA09F5900CEAD74 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 17.2;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = co.israelmaslow.BroadwayWhereTests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/BroadwayWhere.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/BroadwayWhere";
+			};
+			name = Debug;
+		};
+		042769322BA09F5900CEAD74 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 17.2;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = co.israelmaslow.BroadwayWhereTests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/BroadwayWhere.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/BroadwayWhere";
+			};
+			name = Release;
+		};
+		042769342BA09F5900CEAD74 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = co.israelmaslow.BroadwayWhereUITests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = BroadwayWhere;
+			};
+			name = Debug;
+		};
+		042769352BA09F5900CEAD74 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = co.israelmaslow.BroadwayWhereUITests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = BroadwayWhere;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		042769042BA09F5400CEAD74 /* Build configuration list for PBXProject "BroadwayWhere" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				0427692B2BA09F5900CEAD74 /* Debug */,
+				0427692C2BA09F5900CEAD74 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		0427692D2BA09F5900CEAD74 /* Build configuration list for PBXNativeTarget "BroadwayWhere" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				0427692E2BA09F5900CEAD74 /* Debug */,
+				0427692F2BA09F5900CEAD74 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		042769302BA09F5900CEAD74 /* Build configuration list for PBXNativeTarget "BroadwayWhereTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				042769312BA09F5900CEAD74 /* Debug */,
+				042769322BA09F5900CEAD74 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		042769332BA09F5900CEAD74 /* Build configuration list for PBXNativeTarget "BroadwayWhereUITests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				042769342BA09F5900CEAD74 /* Debug */,
+				042769352BA09F5900CEAD74 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 042769012BA09F5400CEAD74 /* Project object */;
+}
