@@ -9,6 +9,7 @@ https://github.com/Avimaslow/BroadwayWhere-/assets/155393634/9846c711-1db3-4f38-
 
 https://github.com/Avimaslow/BroadwayWhere-/assets/155393634/e13dacd7-6e1b-4b21-87a7-d9d57f1eacd1
 
+![Simulator Screenshot - iPhone 15 Pro - 2024-05-14 at 18 55 22](https://github.com/Avimaslow/BroadwayWhere-/assets/155393634/e0c71967-d60a-4d48-ab80-53c358e5e912)
 
 - **Show Details**: By tapping on the shows, users can access detailed pages for each Broadway show. These pages include:
   - **Photos and Videos**: Visual content that brings the spectacle of Broadway to the user's device, providing a sneak peek of what to expect.
