@@ -4,7 +4,10 @@
 BroadwayWhere is a comprehensive guide to Broadway shows in New York City, designed for theater enthusiasts and tourists alike. Here are some of the features that make BroadwayWhere an essential tool for Broadway fans:
 
 - **Interactive Map**: The app uses MapKit to display an interactive map pinpointing the locations of various Broadway theaters. Users can explore the map to find where different shows are playing.
-https://github.com/Avimaslow/SlotMachine-/assets/155393634/de89671b-c79b-4be5-adeb-00e408913cc0
+
+https://github.com/Avimaslow/BroadwayWhere-/assets/155393634/9846c711-1db3-4f38-9625-74c3fac874b6
+
+
 - **Show Details**: By tapping on the shows, users can access detailed pages for each Broadway show. These pages include:
   - **Photos and Videos**: Visual content that brings the spectacle of Broadway to the user's device, providing a sneak peek of what to expect.
   - **Comprehensive Show Information**: Detailed descriptions including show times, cast lists, and duration to help users choose the perfect show.
