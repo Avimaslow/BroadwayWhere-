@@ -7,6 +7,8 @@ BroadwayWhere is a comprehensive guide to Broadway shows in New York City, desig
 
 https://github.com/Avimaslow/BroadwayWhere-/assets/155393634/9846c711-1db3-4f38-9625-74c3fac874b6
 
+https://github.com/Avimaslow/BroadwayWhere-/assets/155393634/e13dacd7-6e1b-4b21-87a7-d9d57f1eacd1
+
 
 - **Show Details**: By tapping on the shows, users can access detailed pages for each Broadway show. These pages include:
   - **Photos and Videos**: Visual content that brings the spectacle of Broadway to the user's device, providing a sneak peek of what to expect.
